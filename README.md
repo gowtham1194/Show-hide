@@ -1,4 +1,4 @@
 # Show-hide
-day4
+day 4
 using little css, js
 hide and show the image 
