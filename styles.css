@@ -1,0 +1,28 @@
+
+body{
+ justify-content: center;
+ text-align: center;
+ box-shadow: 25px ,30px,10px;
+}
+
+.btn{
+    width: 15%;
+    height: 7%;
+    font-size: 2rem;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50%;
+    border: solid rgb(244, 5, 5) ;
+    cursor: pointer;
+    box-shadow: 10px 4px 10px rgb(126, 133, 125);
+}
+
+.img{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 3px;
+    border: solid gray;
+  border-radius: 5%;
+  box-shadow: 10px 10px lightblue;
+}
+  
